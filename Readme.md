@@ -96,7 +96,7 @@ All models are evaluated using the **test dataset** (4,490 samples) with standar
 ### 📈 Evaluation Results (Test Set)
 
 | Model | Accuracy | Precision | Recall | F1-Score | Support |
-|-------|----------|-----------|--------|----------|---------||
+|-------|----------|-----------|--------|----------|---------|
 | **LSTM** | 99.91% | 99.87% | 99.96% | 99.91% | 4,490 |
 | **BERT** | 99.96% | 99.96% | 99.96% | 99.96% | 4,490 |
 | **DistilBERT** | 99.89% | 99.91% | 99.87% | 99.89% | 4,490 |
