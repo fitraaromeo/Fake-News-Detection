@@ -7,3 +7,6 @@ models/bert/checkpoints/
 models/bert/checkpoints/**
 **/checkpoints/**
 **/final/**
+models/distilbert/
+models/distilbert/**/checkpoint-*/
+models/distilbert/checkpoints/
