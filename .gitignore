@@ -1,0 +1,9 @@
+models/bert/checkpoints/
+models/bert/final/
+models/bert/**/checkpoint-*/
+models/bert/checkpoints/**
+models/bert/final/**
+models/bert/checkpoints/
+models/bert/checkpoints/**
+**/checkpoints/**
+**/final/**
